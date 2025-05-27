@@ -14,12 +14,12 @@ jobs:
       - run:
           name: Build Docker Image
           command: |
-            docker build -t Website-deploy .
+            docker build -t website-deploy .
 
       - run:
           name: Test Image by Running Container
           command: |
-            docker run -d -p 8080:80 --name temp-container Website-deploy
+            docker run -d -p 8080:80 --name temp-container website-deploy
             sleep 5
             curl -I http://localhost:8080 || echo "Site did not respond"
             docker stop temp-container
