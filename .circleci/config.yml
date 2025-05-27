@@ -22,8 +22,7 @@ jobs:
             docker run -d -p 8080:80 --name temp-container website-deploy
             sleep 5
             curl -I http://localhost:8080 || echo "Site did not respond"
-            docker stop temp-container
-            docker rm temp-container
+          
 
 workflows:
   version: 2
