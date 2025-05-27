@@ -1,0 +1,9 @@
+About Me
+
+Hi, I'm Jabir Arain – a passionate Web Designer and DevOps Engineer with over 3 years of hands-on experience in building modern, responsive websites and managing scalable infrastructure.
+
+I specialize in crafting clean, user-friendly web interfaces while ensuring seamless deployment and continuous integration through DevOps practices. My workflow bridges the gap between development and operations, enabling faster delivery and higher performance for every project I take on.
+
+Whether it’s designing a pixel-perfect UI or automating deployment pipelines, I’m all about creating efficient and reliable solutions that exceed expectations.
+
+Always eager to learn, collaborate, and contribute to open-source or impactful tech projects. Let's build something awesome!
